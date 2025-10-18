@@ -75,6 +75,10 @@ footer {
   font-size: 14px;
 }
 
+address {
+  font-style: normal;
+}
+
 .address {
   margin-bottom: 5px;
 }
